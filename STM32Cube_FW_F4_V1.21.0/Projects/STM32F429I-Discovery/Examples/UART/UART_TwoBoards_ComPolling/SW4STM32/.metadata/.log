@@ -1,0 +1,28 @@
+!SESSION 2018-05-16 15:41:04.255 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=10.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -product org.eclipse.epp.package.cpp.product -keyring /Users/ateammac/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.cpp.product -data /Users/ateammac/Documents/work/STM32Cube_FW_F4_V1.21.0/Projects/STM32F429I-Discovery/Examples/UART/UART_TwoBoards_ComPolling/SW4STM32 -product org.eclipse.epp.package.cpp.product -keyring /Users/ateammac/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-05-16 15:41:08.326
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.launchbar.core 2 0 2018-05-16 15:41:18.201
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY fr.ac6.mcu.ide 1 1 2018-05-16 15:41:18.203
+!MESSAGE Started RMI Server, listening on port 21113
+
+!ENTRY org.eclipse.launchbar.core 2 0 2018-05-16 15:41:18.213
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2018-05-16 15:41:18.214
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.cdt.core 1 0 2018-05-16 15:43:37.696
+!MESSAGE Indexed 'STM32F429I-Discovery' (19 sources, 66 headers) in 4.69 sec: 5,218 declarations; 32,169 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2018-05-16 15:51:43.120
+!MESSAGE Indexed 'STM32F429I-DISCO' (33 sources, 98 headers) in 4.34 sec: 8,263 declarations; 45,959 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)

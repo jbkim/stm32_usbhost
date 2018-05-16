@@ -1,0 +1,6 @@
+15:52:29 **** Incremental Build of configuration Debug for project STM32F429I-Discovery ****
+make all 
+make: Nothing to be done for `all'.
+
+15:52:29 Build Finished (took 99ms)
+
