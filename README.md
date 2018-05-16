@@ -9,6 +9,8 @@
 	* File->Import를 클릭후 General->'Existing Projects into Workspace'를 선택후 "Next"를 클릭
 	* 프로젝트를 리빌드
 
+* USB host에 연결된 응용 테스트를 위해서는 /STM32Cube_FW_F4_V1.21.0/Projects/STM32F429I-Discovery/Applications/FatFs/FatFs_USBDisk 를 확인할 것.
+
 ## 참고
 * https://openmicrolab.com/system-workbench-stm32/
 * https://openmicrolab.com/st-link-%ED%8E%8C%EC%9B%A8%EC%96%B4-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/
